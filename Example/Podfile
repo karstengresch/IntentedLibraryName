@@ -1,0 +1,6 @@
+use_frameworks!
+target 'IntentedLibraryName_Tests' do
+  pod 'IntentedLibraryName', :path => '../'
+  
+  
+end
