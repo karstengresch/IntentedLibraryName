@@ -1,0 +1,16 @@
+PODS:
+  - IntentedLibraryName (0.1.0)
+
+DEPENDENCIES:
+  - IntentedLibraryName (from `../`)
+
+EXTERNAL SOURCES:
+  IntentedLibraryName:
+    :path: ../
+
+SPEC CHECKSUMS:
+  IntentedLibraryName: c84989c282f14f57ac989ee96ab442017637238a
+
+PODFILE CHECKSUM: d09b64c11facee83262ba0bde59364a7bf24f680
+
+COCOAPODS: 1.3.1

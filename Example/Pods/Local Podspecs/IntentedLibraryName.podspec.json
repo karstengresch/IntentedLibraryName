@@ -1,0 +1,22 @@
+{
+  "name": "IntentedLibraryName",
+  "version": "0.1.0",
+  "summary": "A short description of IntentedLibraryName.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/karsten-gresch/IntentedLibraryName",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "karsten-gresch": "git-2015@by-doing.org"
+  },
+  "source": {
+    "git": "https://github.com/karsten-gresch/IntentedLibraryName.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "IntentedLibraryName/Classes/**/*"
+}

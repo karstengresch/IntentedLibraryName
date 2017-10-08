@@ -1,0 +1,6 @@
+framework module IntentedLibraryName {
+  umbrella header "IntentedLibraryName-umbrella.h"
+
+  export *
+  module * { export * }
+}
